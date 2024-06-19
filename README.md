@@ -8,7 +8,7 @@ This is a machine learning project designed to build a decision support system f
       Training and evaluating Decision Tree classifiers using Scikit-learn.
       Understanding model evaluation metrics to assess performance.
       Saving and loading trained models using joblib for future use.
-   Data Visualization:
+    Data Visualization:
        Plotting and visualizing decision trees using Matplotlib.
        Understanding and interpreting visual representations of model decision paths.
     Interactive Dashboards:
